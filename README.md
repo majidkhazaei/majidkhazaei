@@ -14,6 +14,8 @@ HTML/CSS: I create clean and responsive web pages using HTML and CSS. I love des
 
 JavaScript: I’m proficient in vanilla JavaScript and enjoy building interactive web applications.
 
+I know how to work with Django.
+
 Data Science and Machine Learning:
    
 Python: My go-to language for data analysis, machine learning, and scientific computing.
