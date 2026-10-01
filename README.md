@@ -56,15 +56,6 @@ I enjoy turning complex problems into simple, practical solutions—and I’ve r
 
 ---
 
-## 🔍 Profile Analysis
-
-- **Core strength**: Backend development with Django and DRF, backed by a growing open source footprint.
-- **What stands out**: A recent, merged contribution to a major framework (DRF) shows you can work in large codebases and collaborate with maintainers.
-- **Growth areas**: Your projects reveal a strong interest in software design patterns—this is a great foundation for writing scalable code.
-- **Next steps**: Continue deepening your DRF skills, add more tests to your projects, and keep contributing to open source. Even small fixes build reputation fast.
-
----
-
 ## 🌱 Currently Learning
 
 - Django REST Framework (advanced patterns)
