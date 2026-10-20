@@ -32,18 +32,6 @@ I enjoy turning complex problems into simple, practical solutions—and I’ve r
 
 ---
 
-## 🛠 Technical Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
----
-
 ## 🔭 Open Source Contribution
 
 **Django REST Framework** — *Contributor*
@@ -61,23 +49,6 @@ I enjoy turning complex problems into simple, practical solutions—and I’ve r
 | [**python-plugin-framework**](https://github.com/majidkhazaei/python-plugin-framework) | Lightweight plugin framework using decorators, dynamic imports, and registry pattern. | `Python` |
 | [**restaurant-management-system**](https://github.com/majidkhazaei/restaurant-management-system) | Event-driven system with Facade, Observer, Singleton, and DI patterns. | `Python` |
 | [**redis-taxi-system**](https://github.com/majidkhazaei/redis-taxi-system) | Ride-hailing simulation using Redis for real-time state management. | `Python`, `Redis` |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <!-- Main GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majidkhazaei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majidkhazaei&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <!-- GitHub Streak (این بخش در تصویر شما سالم بود) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majidkhazaei&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
-</div>
 
 ---
 
