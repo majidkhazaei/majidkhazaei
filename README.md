@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | Django & DRF Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+clean+web+applications;Django+%26+Django+REST+Framework;Open+Source+Contributor;Turning+complex+problems+into+simple+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+clean+web+applications;Django+%26+Django+REST+Framework;Celery+%26+Distributed+Systems;Open+Source+Contributor" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/majidkhazaei">
@@ -25,19 +25,25 @@ I am a **Full-Stack Developer** focused on building clean, maintainable web appl
 
 I enjoy turning complex problems into simple, practical solutions—and I’ve recently started contributing to the open source tools I use every day.
 
-- 🔭 Currently working on: Advanced Django REST Framework patterns
-- 🌱 Currently learning: PostgreSQL performance tuning & Docker workflows
-- 💬 Ask me about: Python, Django, DRF, and System Design Patterns
+- 🔭 Currently working on: Advanced Django REST Framework patterns & Distributed Systems
+- 🌱 Currently learning: Celery internals, PostgreSQL performance tuning & Docker workflows
+- 💬 Ask me about: Python, Django, Celery, Task Queues, and System Design Patterns
 - ⚡ Fun fact: I love refactoring code to make it cleaner and more efficient!
 
 ---
 
-## 🔭 Open Source Contribution
+## 🔭 Open Source Contributions
+
+**Celery** — *Contributor*
+- 🔗 [PR #10960](https://github.com/celery/celery/pull/10960) (Merged)
+- Fixed a critical worker deadlock/hang issue when the result backend is unreachable (`result_backend_always_retry=True`).
+- Implemented a thread-safe bounded retry mechanism (`max_retries=min(backend.max_retries, 3)`) to prevent indefinite blocking without breaking backward compatibility.
+- Wrote comprehensive Unit, Integration, and Smoke tests (Dockerized workers) to ensure fail-fast behavior.
 
 **Django REST Framework** — *Contributor*
 - 🔗 [PR #10021](https://github.com/encode/django-rest-framework/pull/10021) (Merged)
 
-> *This contribution taught me how to navigate a large codebase, work with maintainers, and ship a fix that affects thousands of projects.*
+> *These contributions taught me how to navigate large-scale codebases, work with core maintainers, and ship production-ready fixes that affect thousands of projects globally.*
 
 ---
 
